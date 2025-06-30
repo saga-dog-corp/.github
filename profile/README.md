@@ -1,5 +1,5 @@
 # 🐾 Saga Dog Corp
-![Saga Dog Logo](sagadog.png)
+![Saga Dog Logo](sagadog.PNG)
 
 **Welcome to the official GitHub space of Saga Dog Corp** — a bold experimental lab and software initiative exploring the crosswinds of intelligence, identity, and narrative. Born at the intersection of storytelling, AI, and networked autonomy, Saga Dog Corp plays with form, function, and futurity.
 
